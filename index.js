@@ -14,7 +14,7 @@ if (string === 'hello'){
 function sayHiToGrandma(string){
   console.log("I can't hear you!")
 
-} else if  (string === 'HELLO'){
+} else if (string === 'HELLO'){
   function sayHiToGrandma(string){
   console.log("YES INDEED!")
 
